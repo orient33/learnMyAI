@@ -12,3 +12,9 @@ ollama run deepseek-r1:1.5b
 /?  帮助
 /show modelfile  显示文件在哪里
 /show info
+
+# openclaw配置，支持tool才行.. 下载1.3G
+ollama run llama3.2:1b
+# 极致省资源：qwen2.5:1.5b 或 llama3.2:1b
+qwen2.5:1.5b  // 986MB
+
